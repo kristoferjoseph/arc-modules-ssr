@@ -1,0 +1,17 @@
+{
+  "name": "lolo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "ARC_LOCAL=yas NODE_ENV=staging sandbox"
+  },
+  "keywords": [],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@architect/workflows": "^3.4.2"
+  }
+}

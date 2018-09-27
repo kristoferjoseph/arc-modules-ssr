@@ -1,0 +1,9 @@
+{
+  "name": "testy002-get-index",
+  "dependencies": {
+    "@architect/data": "^2.0.5",
+    "@architect/functions": "^1.9.2",
+    "esm": "^3.0.84",
+    "preact-render-to-string": "^3.8.2"
+  }
+}
